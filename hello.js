@@ -6,6 +6,7 @@ to the console (the panel on the right)
 
 console.log("Hi \"sejal\". its a good weather");
 console.log("how is it going?");
+console.log("i have started learning ,i like to learn git")
 /*  
 Next, PLAY! 
 Modify your code on line 7 to try to accomplish the tasks listed below:
